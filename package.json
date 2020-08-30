@@ -28,7 +28,10 @@
     "typescript": "^3.8.3"
   },
   "dependencies": {
+    "@types/uuidv4": "^5.0.0",
     "express": "^4.17.1",
     "uuidv4": "^6.0.7"
-  }
+  },
+  "repository": "https://github.com/lucianomalta/primeiro-projeto-node-js.git",
+  "author": "Luciano Vasconcelos Malta <luciano@orgsystem.com.br>"
 }
